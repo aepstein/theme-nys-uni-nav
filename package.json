@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-nys-universal-navigation",
+  "name": "gitbook-plugin-theme-nysUniversalNavigation",
   "version": "0.0.1",
   "description": "Adds New York Universal Navigation to web view",
   "engines": {
